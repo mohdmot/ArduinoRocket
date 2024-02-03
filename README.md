@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/mohdmot/ArduinoRocket/blob/main/logo.png?raw=true"></p>
+
 # Arduino Rocket System
 A missile system programmed with Arduino that can take off and land. It can be programmed and developed for a specific mission. The missile contains two parts:
 - **Control compartment**
